@@ -4,7 +4,7 @@
 
 To install the Linux Helper Package, follow these steps:
 
-1. **Download the Package**: Click [here](https://github.com/NirajanAcharya666/Linux-Helper-Desktop-App/releases/tag/linux-helper) to download the Debian package (`linux-helper-package.deb`).
+1. **Download the Package**: Click [here](https://github.com/NirajanAcharya666/Linux-Helper-Desktop-App/releases/download/linux-helper/linux-helper-package.deb) to download the Debian package (`linux-helper-package.deb`).
 
 2. **Open Terminal**: Navigate to the directory where the `.deb` file is downloaded. You can do this by opening a terminal window and using the `cd` command to change to the directory where the file is located. 
 
